@@ -10,16 +10,18 @@ A lot of my work is about making the whole thing hold together: the data, the mo
 - **[ResolveX](https://github.com/aaryamanmishra/ResolveX)** — An evidence-first payment intelligence and fraud investigation platform, with agentic workflows, graph investigation and human approval for sensitive actions.
 - **Maritime Sentinel** *(private repository)* — A modular maritime intelligence platform bringing together SAR vessel detection, AIS intelligence, marine weather, wave forecasting and weather-aware route evaluation.
 - **[TigerGraph Agentic Fraud Investigation](https://github.com/aaryamanmishra/tigergraph-agentic-fraud-investigation)** — Graph-native fraud investigations that gather evidence, reason about uncertainty and keep policy decisions deterministic.
-- **StudyPalz** — A personalised learning recommendation system; the work also led to a paper published in the *International Journal of Professional Education*.
+- **StudyPalz** — A personalised learning recommendation system; the project is also one of my published research papers.
 - **[GPR Image Enhancement](https://github.com/aaryamanmishra/GPR-Image-Enhancement)** — Deep learning and image-processing work on ground-penetrating radar imagery.
 - **CrowdPalz** *(private repository)* — An intelligent system exploring crowd-related applications.
 
-## Recognition
+## Recognition & research
 
-- **Best Open-Source AI Project** — Hacktoberfest Hack Day Pune × AIDN 2026, for NeuroTrace.
+- **Second Prize** — Mastercard AI Garage Innovation Challenge 2026, with Team Tri-Archy; presented MANTIS at Global Fintech Fest 2026 in Mumbai.
 - **Best Use of Gemma 4** — Hacktoberfest Hack Day Pune × AIDN 2026, for NeuroTrace.
-- **Top 3 finalist** — Mastercard AI Garage Innovation Challenge 2026, with Team Tri-Archy; presented MANTIS at Global Fintech Fest 2026 in Mumbai.
+- **Best Open-Source AI Project** — Hacktoberfest Hack Day Pune × AIDN 2026, for NeuroTrace.
 - **Semi-finalist** — Deep Blue Hackathon.
+- **Published research** — StudyPalz and CrowdPalz; StudyPalz was published in the *International Journal of Professional Education*.
+- **Patent** — GPR Image Enhancement project.
 
 ## What I work with
 
