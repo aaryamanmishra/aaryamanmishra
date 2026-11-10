@@ -13,6 +13,10 @@ A lot of my work is about making the whole thing hold together: the data, the mo
 - **[TigerGraph Agentic Fraud Investigation](https://github.com/aaryamanmishra/tigergraph-agentic-fraud-investigation)** — Graph-native fraud investigations that gather evidence, reason about uncertainty and keep policy decisions deterministic.
 - **[GPR Image Enhancement](https://github.com/aaryamanmishra/GPR-Image-Enhancement)** — Deep learning and image-processing work on ground-penetrating radar imagery.
 
+## Collaborative and earlier projects
+
+- **[SmartSched](https://github.com/aayushbarsainya/SmartSched)** — Original project creator; built the foundational CPU scheduling simulator before its subsequent upgrade, covering the initial project structure and core implementation.
+
 ## Research and additional work
 
 - **StudyPalz** — A personalised learning recommendation system; the published paper is available in the [Publications repository](https://github.com/aaryamanmishra/Publications).
