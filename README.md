@@ -10,9 +10,9 @@ A lot of my work is about making the whole thing hold together: the data, the mo
 - **[ResolveX](https://github.com/aaryamanmishra/ResolveX)** — An evidence-first payment intelligence and fraud investigation platform, with agentic workflows, graph investigation and human approval for sensitive actions.
 - **Maritime Sentinel** *(private repository)* — A modular maritime intelligence platform bringing together SAR vessel detection, AIS intelligence, marine weather, wave forecasting and weather-aware route evaluation.
 - **[TigerGraph Agentic Fraud Investigation](https://github.com/aaryamanmishra/tigergraph-agentic-fraud-investigation)** — Graph-native fraud investigations that gather evidence, reason about uncertainty and keep policy decisions deterministic.
-- **StudyPalz** — A personalised learning recommendation system; the work has also been published as a research paper.
+- **[StudyPalz](https://github.com/aaryamanmishra/Publications)** — A personalised learning recommendation system; the work has also been published as a research paper.
 - **[GPR Image Enhancement](https://github.com/aaryamanmishra/GPR-Image-Enhancement)** — Deep learning and image-processing work on ground-penetrating radar imagery.
-- **CrowdPalz** *(private repository)* — An intelligent system exploring crowd-related applications.
+- **CrowdPalz** — Published research on an intelligent system for crowd-related applications; the paper is available in the [Publications repository](https://github.com/aaryamanmishra/Publications).
 
 ## Recognition & research
 
