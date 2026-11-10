@@ -6,13 +6,13 @@ A lot of my work is about making the whole thing hold together: the data, the mo
 
 ## A few things I've been building
 
-- **[NeuroTrace](https://github.com/aaryamanmishra)** — Brain MRI analysis combining 3D U-Net segmentation, interactive 2D/3D visualisation, quantitative analysis and a research assistant powered by Gemma 4.
+- **NeuroTrace** — Brain MRI analysis combining 3D U-Net segmentation, interactive 2D/3D visualisation, quantitative analysis and a research assistant powered by Gemma 4.
 - **[ResolveX](https://github.com/aaryamanmishra/ResolveX)** — An evidence-first payment intelligence and fraud investigation platform, with agentic workflows, graph investigation and human approval for sensitive actions.
-- **[Maritime Sentinel](https://github.com/aaryamanmishra/MaritimeSentinel)** — A modular maritime intelligence platform bringing together SAR vessel detection, AIS intelligence, marine weather, wave forecasting and weather-aware route evaluation.
+- **Maritime Sentinel** *(private repository)* — A modular maritime intelligence platform bringing together SAR vessel detection, AIS intelligence, marine weather, wave forecasting and weather-aware route evaluation.
 - **[TigerGraph Agentic Fraud Investigation](https://github.com/aaryamanmishra/tigergraph-agentic-fraud-investigation)** — Graph-native fraud investigations that gather evidence, reason about uncertainty and keep policy decisions deterministic.
-- **[StudyPalz](https://github.com/aaryamanmishra)** — A personalised learning recommendation system; the work also led to a paper published in the *International Journal of Professional Education*.
+- **StudyPalz** — A personalised learning recommendation system; the work also led to a paper published in the *International Journal of Professional Education*.
 - **[GPR Image Enhancement](https://github.com/aaryamanmishra/GPR-Image-Enhancement)** — Deep learning and image-processing work on ground-penetrating radar imagery.
-- **[CrowdPalz](https://github.com/aaryamanmishra/CrowdPalz)** — An intelligent system exploring crowd-related applications.
+- **CrowdPalz** *(private repository)* — An intelligent system exploring crowd-related applications.
 
 ## Recognition
 
