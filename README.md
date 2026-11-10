@@ -26,7 +26,7 @@ Outside the code, I'm involved in student leadership and anchoring. I enjoy work
 
 I'm always interested in collaborating on thoughtful engineering projects, applied AI, open-source work and hackathons.
 
-**Find me elsewhere:** [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/aaryamanmishra)
+**Find me on GitHub:** [@aaryamanmishra](https://github.com/aaryamanmishra)
 
 ---
 
