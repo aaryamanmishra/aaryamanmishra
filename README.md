@@ -20,7 +20,7 @@ A lot of my work is about making the whole thing hold together: the data, the mo
 ## Research and additional work
 
 - **StudyPalz** — A personalised learning recommendation system; the published paper is available in the [Publications repository](https://github.com/aaryamanmishra/Publications).
-- **CrowdPalz** — An academic project manuscript on an intelligent system for crowd-related applications; the manuscript is available in the [Publications repository](https://github.com/aaryamanmishra/Publications).
+- **[CrowdPalz](https://eurekamag.com/research/109/581/109581450.php)** — Co-authored research on hybrid AI for real-time venue analytics and personalized user engagement; listed in Grenze International Journal of Engineering & Technology (GIJET), 2026.
 - **Maritime Sentinel** *(private repository)* — A modular maritime intelligence platform bringing together SAR vessel detection, AIS intelligence, marine weather, wave forecasting and weather-aware route evaluation.
 - **[BankUI](https://github.com/aaryamanmishra/sem4frontend)** — A digital-banking prototype built with React, FastAPI and PostgreSQL.
 - **[Sorting & Searching Algorithm Recommendation](https://github.com/aaryamanmishra/FODSPROJECT)** — A C++ benchmarking project with an experimental ML recommendation path.
@@ -32,7 +32,7 @@ A lot of my work is about making the whole thing hold together: the data, the mo
 - **Best Open-Source AI Project** — Hacktoberfest Hack Day Pune × AIDN 2026, for NeuroTrace.
 - **Semi-finalist** — Deep Blue Hackathon.
 - **Published research** — StudyPalz, published in the *International Journal of Professional Education*.
-- **Academic manuscript** — CrowdPalz, included in the Publications repository.
+- **Published research** — CrowdPalz, listed in Grenze International Journal of Engineering & Technology (GIJET), 2026.
 - **Patent** — GPR Image Enhancement project.
 
 ## What I work with
